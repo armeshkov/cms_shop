@@ -1,2 +1,2 @@
-# cms_on_php
-CMS on php with use my framework
+# cms_shop
+CMS shop on my php framework
